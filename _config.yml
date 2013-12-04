@@ -1,14 +1,14 @@
-title:            爱跑步的人
+title:            Runner's world
 tagline:          A short tagline
-description:      传播跑步知识
+description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
 url:              http://meifapu.com
 
 # Owner/author information
 owner:
-  name:           爱跑步的人
+  name:           Your Name
   avatar:         bio-photo.jpg
-  bio:            "传播跑步、马拉松知识"
+  bio:            "Describe your self."
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
