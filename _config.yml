@@ -1,15 +1,15 @@
-title:            Site Title
+title:            喜欢跑步的人
 tagline:          A short tagline
-description:      Describe your website.
+description:      最新跑步马拉松资讯，传播马拉松跑步知识
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-site.com
+url:              http://meifapu.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           whj
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Marathoner."
+  email:          1289657692@qq.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
   facebook:       
